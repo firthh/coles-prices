@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-01",
+  "source": "coles.com.au",
+  "prices": [
+    {
+      "staple": "Full Cream Milk 2L",
+      "product": "Coles Full Cream Milk | 2L",
+      "price": 3.2,
+      "unit_price": "$1.60/ 1L",
+      "on_special": false,
+      "was": null
+    },
+    {
+      "staple": "White Bread 700g",
+      "product": "Abbott's Bakery Rustic White Bread | 700g",
+      "price": 5.2,
+      "unit_price": "$0.74/ 100g",
+      "on_special": false,
+      "was": null
+    },
+    {
+      "staple": "Free Range Eggs 12 Pack",
+      "product": "Coles Free Range Eggs 12 Pack | 700g",
+      "price": 6.5,
+      "unit_price": "$0.93/ 100g",
+      "on_special": false,
+      "was": null
+    },
+    {
+      "staple": "Butter 250g",
+      "product": "Coles Simply Salted Butter | 250g",
+      "price": 4,
+      "unit_price": "$1.60/ 100g",
+      "on_special": false,
+      "was": null
+    },
+    {
+      "staple": "White Rice 1kg",
+      "product": "Sunrice Australian Medium Grain White Rice | 5kg",
+      "price": 19.0,
+      "unit_price": "$0.38/ 100g",
+      "on_special": false,
+      "was": null,
+      "note": "5kg pack returned; unit price $3.80/kg"
+    },
+    {
+      "staple": "Pasta 500g",
+      "product": null,
+      "price": null,
+      "unit_price": null,
+      "on_special": false,
+      "error": "rate_limited_incapsula"
+    },
+    {
+      "staple": "White Sugar 1kg",
+      "product": null,
+      "price": null,
+      "unit_price": null,
+      "on_special": false,
+      "error": "rate_limited_incapsula"
+    },
+    {
+      "staple": "Plain Flour 1kg",
+      "product": null,
+      "price": null,
+      "unit_price": null,
+      "on_special": false,
+      "error": "rate_limited_incapsula"
+    },
+    {
+      "staple": "Olive Oil 750ml",
+      "product": null,
+      "price": null,
+      "unit_price": null,
+      "on_special": false,
+      "error": "rate_limited_incapsula"
+    },
+    {
+      "staple": "Tasty Cheese 500g",
+      "product": null,
+      "price": null,
+      "unit_price": null,
+      "on_special": false,
+      "error": "rate_limited_incapsula"
+    },
+    {
+      "staple": "Chicken Breast per kg",
+      "product": null,
+      "price": null,
+      "unit_price": null,
+      "on_special": false,
+      "error": "rate_limited_incapsula"
+    },
+    {
+      "staple": "Canned Diced Tomatoes 400g",
+      "product": null,
+      "price": null,
+      "unit_price": null,
+      "on_special": false,
+      "error": "rate_limited_incapsula"
+    }
+  ]
+}
