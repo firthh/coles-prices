@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-31",
+  "source": "coles.com.au",
+  "prices": [
+    {
+      "staple": "Full Cream Milk 2L",
+      "product": "Coles Full Cream Milk | 2L",
+      "price": 3.20,
+      "unit_price": "$1.60/ 1L",
+      "on_special": false
+    },
+    {
+      "staple": "White Bread 700g",
+      "product": "Coles Bread White | 700g",
+      "price": 2.50,
+      "unit_price": "$0.36/ 100g",
+      "on_special": false
+    },
+    {
+      "staple": "Free Range Eggs 12 Pack",
+      "product": "Coles Free Range Eggs 12 Pack | 700g",
+      "price": 6.50,
+      "unit_price": "$0.93/ 100g",
+      "on_special": false
+    },
+    {
+      "staple": "Butter 250g",
+      "product": "Coles Simply Salted Butter | 250g",
+      "price": 4.00,
+      "unit_price": "$1.60/ 100g",
+      "on_special": false
+    },
+    {
+      "staple": "White Rice 1kg",
+      "product": "Sunrice Australian Medium Grain White | 1kg",
+      "price": 4.50,
+      "unit_price": "$0.45/ 100g",
+      "on_special": false
+    },
+    {
+      "staple": "Pasta 500g",
+      "product": "Coles Durum Wheat Pasta Spaghetti | 500g",
+      "price": 1.00,
+      "unit_price": "$0.20/ 100g",
+      "on_special": false
+    },
+    {
+      "staple": "White Sugar 1kg",
+      "product": "Coles White Sugar | 1kg",
+      "price": 1.80,
+      "unit_price": "$0.18/ 100g",
+      "on_special": false
+    },
+    {
+      "staple": "Plain Flour 1kg",
+      "product": "Coles White Plain Flour | 1kg",
+      "price": 1.30,
+      "unit_price": "$1.30/ 1kg",
+      "on_special": false
+    },
+    {
+      "staple": "Olive Oil 750ml",
+      "product": "Cobram Estate Extra Virgin Olive Oil | 750mL",
+      "price": 17.50,
+      "unit_price": "$2.33/ 100mL",
+      "on_special": true,
+      "was": 25.00
+    },
+    {
+      "staple": "Tasty Cheese 500g",
+      "product": "Coles Cheese Block Tasty | 500g",
+      "price": 7.70,
+      "unit_price": "$15.40/ 1kg",
+      "on_special": false
+    },
+    {
+      "staple": "Chicken Breast 1kg",
+      "product": "Coles RSPCA Approved Chicken Breast Fillets (Large Pack) | approx. 1.4kg",
+      "price_per_kg": 11.00,
+      "unit_price": "$11.00/ 1kg",
+      "note": "Final price based on weight",
+      "on_special": false
+    },
+    {
+      "staple": "Canned Diced Tomatoes 400g",
+      "product": "Coles Australian Diced Tomatoes | 400g",
+      "price": 1.30,
+      "unit_price": "$3.25/ 1kg",
+      "on_special": false
+    }
+  ]
+}
