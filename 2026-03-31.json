@@ -74,12 +74,12 @@
       "on_special": false
     },
     {
-      "staple": "Chicken Breast 1kg",
+      "staple": "Chicken Breast per kg",
       "product": "Coles RSPCA Approved Chicken Breast Fillets (Large Pack) | approx. 1.4kg",
       "price_per_kg": 11.00,
       "unit_price": "$11.00/ 1kg",
-      "note": "Final price based on weight",
-      "on_special": false
+      "on_special": false,
+      "note": "Final price based on weight"
     },
     {
       "staple": "Canned Diced Tomatoes 400g",
