@@ -1,16 +1,64 @@
 {
   "staples": [
-    { "name": "Full Cream Milk 2L", "search": "full cream milk 2L" },
-    { "name": "White Bread 700g", "search": "white bread 700g" },
-    { "name": "Free Range Eggs 12 Pack", "search": "free range eggs 12 pack" },
-    { "name": "Butter 250g", "search": "butter 250g" },
-    { "name": "White Rice 1kg", "search": "white rice 1kg" },
-    { "name": "Pasta 500g", "search": "pasta 500g" },
-    { "name": "White Sugar 1kg", "search": "white sugar 1kg" },
-    { "name": "Plain Flour 1kg", "search": "plain flour 1kg" },
-    { "name": "Olive Oil 750ml", "search": "olive oil 750ml" },
-    { "name": "Tasty Cheese 500g", "search": "tasty cheese 500g" },
-    { "name": "Chicken Breast 1kg", "search": "chicken breast 1kg" },
-    { "name": "Canned Diced Tomatoes 400g", "search": "diced tomatoes 400g" }
+    {
+      "name": "Full Cream Milk 2L",
+      "search": "full cream milk 2L",
+      "prefer": "coles full cream milk"
+    },
+    {
+      "name": "White Bread 700g",
+      "search": "white bread 700g",
+      "prefer": "coles bread white"
+    },
+    {
+      "name": "Free Range Eggs 12 Pack",
+      "search": "free range eggs 12 pack",
+      "prefer": "coles free range eggs 12"
+    },
+    {
+      "name": "Butter 250g",
+      "search": "salted butter 250g",
+      "prefer": "coles simply salted butter"
+    },
+    {
+      "name": "White Rice 1kg",
+      "search": "white rice 1kg",
+      "prefer": "sunrice low gi white rice | 1kg"
+    },
+    {
+      "name": "Pasta 500g",
+      "search": "pasta spaghetti 500g",
+      "prefer": "coles durum wheat pasta spaghetti"
+    },
+    {
+      "name": "White Sugar 1kg",
+      "search": "white sugar 1kg",
+      "prefer": "coles white sugar"
+    },
+    {
+      "name": "Plain Flour 1kg",
+      "search": "plain flour 1kg",
+      "prefer": "coles white plain flour"
+    },
+    {
+      "name": "Olive Oil 750ml",
+      "search": "olive oil 750ml",
+      "prefer": "cobram estate extra virgin"
+    },
+    {
+      "name": "Tasty Cheese 500g",
+      "search": "tasty cheese 500g",
+      "prefer": "coles cheese block tasty"
+    },
+    {
+      "name": "Chicken Breast per kg",
+      "search": "rspca chicken breast fillets",
+      "prefer": "coles rspca approved chicken breast fillets"
+    },
+    {
+      "name": "Canned Diced Tomatoes 400g",
+      "search": "diced tomatoes 400g canned",
+      "prefer": "coles australian diced tomatoes"
+    }
   ]
 }
