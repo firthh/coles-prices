@@ -29,75 +29,74 @@
     {
       "staple": "Butter 250g",
       "product": "Coles Simply Salted Butter | 250g",
-      "price": 4,
+      "price": 4.0,
       "unit_price": "$1.60/ 100g",
       "on_special": false,
       "was": null
     },
     {
       "staple": "White Rice 1kg",
-      "product": "Sunrice Australian Medium Grain White Rice | 5kg",
-      "price": 19.0,
-      "unit_price": "$0.38/ 100g",
+      "product": "Sunrice Low GI White Rice | 1kg",
+      "price": 4.6,
+      "unit_price": "$0.46/ 100g",
       "on_special": false,
-      "was": null,
-      "note": "5kg pack returned; unit price $3.80/kg"
+      "was": null
     },
     {
       "staple": "Pasta 500g",
-      "product": null,
-      "price": null,
-      "unit_price": null,
+      "product": "Coles Durum Wheat Pasta Spaghetti | 500g",
+      "price": 1.0,
+      "unit_price": "$0.20/ 100g",
       "on_special": false,
-      "error": "rate_limited_incapsula"
+      "was": null
     },
     {
       "staple": "White Sugar 1kg",
-      "product": null,
-      "price": null,
-      "unit_price": null,
+      "product": "Coles White Sugar | 1kg",
+      "price": 1.8,
+      "unit_price": "$0.18/ 100g",
       "on_special": false,
-      "error": "rate_limited_incapsula"
+      "was": null
     },
     {
       "staple": "Plain Flour 1kg",
-      "product": null,
-      "price": null,
-      "unit_price": null,
+      "product": "Coles White Plain Flour | 1Kg",
+      "price": 1.3,
+      "unit_price": "$1.30/ 1kg",
       "on_special": false,
-      "error": "rate_limited_incapsula"
+      "was": null
     },
     {
       "staple": "Olive Oil 750ml",
-      "product": null,
-      "price": null,
-      "unit_price": null,
+      "product": "Cobram Estate Extra Virgin Olive Oil | 750mL",
+      "price": 25.0,
+      "unit_price": "$3.33/ 100mL",
       "on_special": false,
-      "error": "rate_limited_incapsula"
+      "was": null
     },
     {
       "staple": "Tasty Cheese 500g",
-      "product": null,
-      "price": null,
-      "unit_price": null,
+      "product": "Coles Cheese Block Tasty | 500g",
+      "price": 7.7,
+      "unit_price": "$15.40/ 1kg",
       "on_special": false,
-      "error": "rate_limited_incapsula"
+      "was": null
     },
     {
       "staple": "Chicken Breast per kg",
-      "product": null,
-      "price": null,
-      "unit_price": null,
+      "product": "Coles RSPCA Approved Chicken Breast Fillets Small Pack | approx. 600g",
+      "price": 8.7,
+      "unit_price": "$14.50/ 1kg",
       "on_special": false,
-      "error": "rate_limited_incapsula"
+      "was": null
     },
     {
       "staple": "Canned Diced Tomatoes 400g",
-      "product": null,
-      "price": null,
-      "unit_price": null,
+      "product": "Coles Australian Diced Tomatoes | 400g",
+      "price": 1.3,
+      "unit_price": "$3.25/ 1kg",
       "on_special": false,
-      "error": "rate_limited_incapsula"
+      "was": null
     }
   ]
 }
